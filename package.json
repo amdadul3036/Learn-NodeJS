@@ -1,0 +1,14 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "Getting started with node js and mongo-db . Hello Backend!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MD AMDADUL ISLAM (Dhrubo)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
